@@ -1,0 +1,10 @@
+{
+    "name": "magento2seller/amasty_xnotif",
+    "authors": [
+        {
+            "name": "Artur E",
+            "email": "nukacoall@gmail.com"
+        }
+    ],
+    "require": {}
+}
